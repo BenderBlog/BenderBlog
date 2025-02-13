@@ -6,10 +6,12 @@ This is BenderBlog Rodriguez, a bending robot from 3001. Currently linked to a C
 
 ## Project / 项目
 
-- Traintime PDA：西电学生信息查看应用。Flutter / SwiftUI / Kotlin
-- CMCalc：Qalculate 的 iOS / Android 前端。Flutter / Objective C++ / Kotlin
-- xdu-journal-alike-typst：仿西电学报论文模板编写的 Typst 模板。Typst
-- AOSC-OS-ABBS：尝试进行一些微小的贡献
+| 名称 | 描述 | 语言 |
+| -------- | -------- | -------|
+| [Traintime PDA](https://github.com/BenderBlog/traintime_pda) | 西电学生信息查看应用 | Flutter / SwiftUI / Kotlin |
+| [CMCalc](https://github.com/BenderBlog/cmcalc) | Qalculate 的 iOS / Android 前端 | Flutter / Objective C++ / Kotlin |
+| [xdu-journal-alike-typst](https://github.com/BenderBlog/xdu-journal-alike-typst) | 仿西电学报论文模板编写的 Typst 模板 | Typst |
+| [AOSC-OS-ABBS](https://github.com/AOSC-Dev/aosc-os-abbs/commits/stable/?author=BenderBlog) | 尝试进行一些微小的贡献 | Bash |
 
 ## Designing Mascot / 正在设计的吉祥物
 
