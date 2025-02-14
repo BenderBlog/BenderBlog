@@ -22,3 +22,9 @@ This is BenderBlog Rodriguez, a bending robot from 3001. Currently linked to a C
 
 - [2023 - Flutter 介绍](https://www.bilibili.com/video/BV1hu4y1r7F2)
 - [2024 - F-Droid 介绍：开源安卓软件和可重复构建](https://www.bilibili.com/video/BV1SDkVYeEda)
+
+## Contact me
+
+QQ: 1740719484
+
+Mail: superbart_chen@qq.com
