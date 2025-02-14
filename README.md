@@ -15,8 +15,8 @@ This is BenderBlog Rodriguez, a bending robot from 3001. Currently linked to a C
 
 ## Designing Mascot / 正在设计的吉祥物
 
-- "PDA Girl": From Traintime PDA, a girl Superbart encountered when he attend a "MSC meeting", he regrets not querying hers QQ. Since little infomation, Superbart cannot design further information, apart from her cloth. Superbart was annoyed by BenderBlog about the PDA's development, so he designed her 'unhappy face'.
-- "Dr. Rebecca Sklodowzka": From CMCalc, specially designed for "Calendar Transfer" function. A jewish, she is a geographical teacher from Poland. She got the god's inspiration when she was attending University of Gdańsk, about the ability to *telling time by the stars and determining location by the Moon*.
+- ["PDA Girl"](https://github.com/BenderBlog/traintime_pda/blob/main/assets/art/pda_girl_default.png): From Traintime PDA, a girl Superbart encountered when he attend a "MSC meeting", he regrets not querying hers QQ. Since little infomation, Superbart cannot design further information, apart from her cloth. Superbart was annoyed by BenderBlog about the PDA's development, so he designed her 'unhappy face'.
+- ["Dr. Rebecca Sklodowzka"](https://github.com/BenderBlog/cmcalc/blob/main/mascot/Calendar_Conversion.jpg): From CMCalc, specially designed for "Calendar Transfer" function. A jewish, she is a geographical teacher from Poland. She got the god's inspiration when she was attending University of Gdańsk, about the ability to *telling time by the stars and determining location by the Moon*.
 
 ## Superbart's Faces
 
