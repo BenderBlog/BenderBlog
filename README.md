@@ -19,7 +19,9 @@ This is BenderBlog Rodriguez, a bending robot from 3001. Currently linked to a C
 ## Ability / 能力
 
 熟练：Flutter / Dart
+
 接触较多：Kotlin / Python / C++ / Typst
+
 接触过：Swift / Rust / HTML + Tailwind / Typescript / Vala
 
 ## Superbart's Faces
